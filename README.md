@@ -1,5 +1,5 @@
-# SpringBoot+Vue的无忌商城
- 无忌商城,含毕设源码,含代码讲解,含远程调试到你电脑上;适合毕设 课设,阿里大佬亲录,哔哩哔哩粉丝6W![image](https://github.com/root121toor/wujimallv1/assets/65600595/0ba5a02d-c381-469d-bc49-b5523659f6fb)
+# SpringBoot+Vue的 在线考试系统
+ 在线考试系统,含毕设源码,含代码讲解,含远程调试到你电脑上;适合毕设 课设,阿里大佬亲录,哔哩哔哩粉丝6W![image](https://github.com/root121toor/wujimallv1/assets/65600595/0ba5a02d-c381-469d-bc49-b5523659f6fb)
 
 ### 1.代码功能讲解
 ![image](https://github.com/root121toor/wujimallv1/assets/65600595/132ee67f-9682-4245-abd7-c07e7dd82f14)
